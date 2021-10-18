@@ -1,2 +1,3 @@
 # Lista-Tarefas
-Website para salvar lista de tarefas
+Website para salvar e editar uma lista de tarefas
+Disponível em: http://listatarefas.freecluster.eu/
